@@ -48,12 +48,12 @@ pip install numpy pandas tensorflow matplotlib seaborn scikit-learn
 Clone the repository and run the Jupyter Notebook:
 
 ```bash
-git clone https://github.com/your-username/mnist-cnn.git
-cd mnist-cnn
+git clone https://github.com/snouskap/mnist-cnn.git
+cd pattern-skeleton
 jupyter notebook
 ```
 
-Then, open **MNIST-CNN.ipynb** in Jupyter Notebook and execute the cells sequentially.
+Then, open **pattern-skeleton.ipynb** in Jupyter Notebook and execute the cells sequentially.
 
 ## Results & Findings
 - The CNN model achieved **99.73% validation accuracy**.
